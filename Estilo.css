@@ -1,0 +1,64 @@
+/*Alexsandro da Silva Lima*/ 
+
+ corpo { 
+    tamanho da fonte :  20 px ; 
+    família da fonte : Arial , Helvetica , sans-serif; 
+    alinhamento de texto : centro; 
+    cor :  rgb ( 255 ,  255 ,  255 ); 
+    imagem de fundo :  url (https://i2.wp.com/backgroundcheckall.com/wp-content/uploads/2017/12/mathematical-background-4.jpg); 
+
+} 
+. container { 
+  display : flex; 
+  direção flexível : coluna; 
+  alinhar-itens : flex-start; 
+} 
+h1 { 
+  tamanho da fonte :  27 px ; 
+  família da fonte : Arial , Helvetica , sans-serif; 
+  alinhamento de texto : centro; 
+  cor :  rgb ( 255 ,  255 ,  255 ); 
+  cor de fundo :  rgba ( 0 ,  0 ,  255 ,  0,342 ); 
+} 
+
+. formatButton  { 
+  largura :  10 % ; 
+  cor de fundo :  rgb ( 255 ,  255 ,  255 ); 
+  cor da borda :  rgb ( 255 ,  255 ,  255 ); 
+  raio da borda :  5 px ; 
+  cursor : ponteiro; 
+  cor : preto; 
+  fonte : tamanho 13 px ; 
+  peso da fonte : mais leve; 
+  alinhamento de texto : centro; 
+  preenchimento :  4 px ; 
+  margem superior :  4 px ; 
+} 
+. formatButtonLimpa  { 
+  largura :  5 % ; 
+  cor de fundo :  rgb ( 255 ,  255 ,  255 ); 
+  cor da borda :  rgb ( 255 ,  255 ,  255 ); 
+  raio da borda :  5 px ; 
+  cursor : ponteiro; 
+  cor : preto; 
+  fonte : tamanho 5 px ; 
+  alinhamento de texto : centro; 
+  preenchimento :  2 px ; 
+  margem superior :  2 px ; 
+} 
+  font1 { 
+  tamanho da fonte :  22 px ; 
+  família da fonte : Arial , sans-serif; 
+  alinhamento de texto : justificar; 
+  cor  :  rgb ( 0 ,  0 ,  0 ); 
+  
+} 
+
+  input { 
+    
+  	tamanho da fonte :  19 px ; 
+    família da fonte : Arial , sans-serif; 
+    alinhamento de texto : direita; 
+    cor : preto; 
+    
+} 
